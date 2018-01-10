@@ -7,3 +7,7 @@
 * '$' will let you got to last character of a line
 * 'dd' will delete the line whole line
 * 'yy+(number)+p' will copy(yank) 
+* 'G' go to last line, 'gg' go to first line 
+* 'dw' delete word from current position
+* 'diw' delete entire word
+* h-right, j-down, k-up, l-left
