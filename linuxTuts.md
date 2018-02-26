@@ -11,3 +11,4 @@
 * 'dw' delete word from current position
 * 'diw' delete entire word
 * h-right, j-down, k-up, l-left
+* u- is used for undo
